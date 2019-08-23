@@ -10,4 +10,6 @@ Can you make up any words of your own? You could even make your own patterns!
 
 ![screenshot](images/me-patterns.png)
 
+Go to the next project in the module pathway: 'Rock, Paper, Scissors'.
+
 --- /challenge ---
