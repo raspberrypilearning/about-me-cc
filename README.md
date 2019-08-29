@@ -1,14 +1,13 @@
-# GBICi5-Python-1-AboutMe
+# About me
 
-![GBICi5-Python-1-AboutMe](banner.png)
+![About me](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/GBICi5-Python-1-AboutMe](https://projects.raspberrypi.org/en/projects/GBICi5-Python-1-AboutMe)
+Use the Python programming language to create pictures out of text
 
-## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/GBICi5-Python-1-AboutMe/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/GBICi5-Python-1-AboutMe/tree/master/en/solutions).
+Find the project online at [projects.raspberrypi.org/en/projects/about-me](https://projects.raspberrypi.org/en/projects/about-me)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
