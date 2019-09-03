@@ -13,3 +13,5 @@ Can you make up any words of your own? You could even make your own patterns!
 Go to the next project in the module pathway: 'Rock, Paper, Scissors'.
 
 --- /challenge ---
+
+![progress bar](images/p1-1.png)
